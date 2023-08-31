@@ -5,7 +5,7 @@ This project includes a button that generates a Pacman with a random starting ve
 <h1>Roadmap</h1>
 Perhaps I will make it so the Pacmen open and close their mouths like how they are animated within the game.
 
-MIT License
+<h2>MIT License<h2>
 
 Copyright (c) 2023 MitchellVlcek
 
